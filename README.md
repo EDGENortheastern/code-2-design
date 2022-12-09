@@ -1,5 +1,5 @@
 # Code and design
 
-## Design 
+## Design
 
 ![Screenshot](figma_screenshot.png)

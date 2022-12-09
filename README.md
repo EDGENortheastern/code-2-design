@@ -1,2 +1,5 @@
-# code-2-design
-code-2-design
+# Code and design
+
+## Design 
+
+![Screenshot](figma_screenshot.png)
